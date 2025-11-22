@@ -38,3 +38,4 @@ a,b,c="raima","swera","saria"
 
 # also can print multiple variables using print function seprated b commas
 print(a,b,c)
+
