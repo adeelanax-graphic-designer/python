@@ -34,8 +34,8 @@ nm='''Anaya'''
 print=(name,num,nm)
 
 # we can assign multiple valules to multiple variables in one line
-a,b,c="raima","swera","saria"
+#a,b,c="raima","swera","saria"
 
 # also can print multiple variables using print function seprated b commas
-print(a,b,c)
-
+#print(a,b,c)
+a, b, c = "raima", "swera", "saria"
